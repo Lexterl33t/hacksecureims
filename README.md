@@ -161,7 +161,7 @@ Dans le consigne il est écrit que le flag est contenu dans le dossier de l'util
 
 
 
-```python=
+```python
 from pwn import *
 
 
